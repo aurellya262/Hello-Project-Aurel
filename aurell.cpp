@@ -1,6 +1,8 @@
 #ifndef SLL_H
 #define SLL_H
 
+//Komentar untuk tugas
+
 typedef struct {
     char name[100];  // Nama peserta
     char team[100];  // Nama tim
